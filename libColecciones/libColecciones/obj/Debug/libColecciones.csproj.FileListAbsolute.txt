@@ -1,0 +1,43 @@
+c:\users\daniel cisneros\documents\visual studio 2015\Projects\Colecciones\libColecciones\bin\Debug\libColecciones.dll
+c:\users\daniel cisneros\documents\visual studio 2015\Projects\Colecciones\libColecciones\bin\Debug\libColecciones.pdb
+c:\users\daniel cisneros\documents\visual studio 2015\Projects\Colecciones\libColecciones\obj\Debug\libColecciones.csprojResolveAssemblyReference.cache
+c:\users\daniel cisneros\documents\visual studio 2015\Projects\Colecciones\libColecciones\obj\Debug\libColecciones.dll
+c:\users\daniel cisneros\documents\visual studio 2015\Projects\Colecciones\libColecciones\obj\Debug\libColecciones.pdb
+C:\Users\Personal\Documents\Visual Studio 2015\Colecciones\libColecciones\bin\Debug\libColecciones.dll
+C:\Users\Personal\Documents\Visual Studio 2015\Colecciones\libColecciones\bin\Debug\libColecciones.pdb
+C:\Users\Personal\Documents\Visual Studio 2015\Colecciones\libColecciones\obj\Debug\libColecciones.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Documents\Visual Studio 2015\Colecciones\libColecciones\obj\Debug\libColecciones.dll
+C:\Users\Personal\Documents\Visual Studio 2015\Colecciones\libColecciones\obj\Debug\libColecciones.pdb
+C:\Users\Daniel Cisneros\Documents\Visual Studio 2015\Colecciones\libColecciones\bin\Debug\libColecciones.dll
+C:\Users\Daniel Cisneros\Documents\Visual Studio 2015\Colecciones\libColecciones\bin\Debug\libColecciones.pdb
+C:\Users\Daniel Cisneros\Documents\Visual Studio 2015\Colecciones\libColecciones\obj\Debug\libColecciones.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Cisneros\Documents\Visual Studio 2015\Colecciones\libColecciones\obj\Debug\libColecciones.dll
+C:\Users\Daniel Cisneros\Documents\Visual Studio 2015\Colecciones\libColecciones\obj\Debug\libColecciones.pdb
+U:\3)Mis proyectos de Programacion\visual studio\version 2.3.1\libColecciones\bin\Debug\libColecciones.dll
+U:\3)Mis proyectos de Programacion\visual studio\version 2.3.1\libColecciones\bin\Debug\libColecciones.pdb
+U:\3)Mis proyectos de Programacion\visual studio\version 2.3.1\libColecciones\obj\Debug\libColecciones.csprojAssemblyReference.cache
+U:\3)Mis proyectos de Programacion\visual studio\version 2.3.1\libColecciones\obj\Debug\libColecciones.csproj.CoreCompileInputs.cache
+U:\3)Mis proyectos de Programacion\visual studio\version 2.3.1\libColecciones\obj\Debug\libColecciones.dll
+U:\3)Mis proyectos de Programacion\visual studio\version 2.3.1\libColecciones\obj\Debug\libColecciones.pdb
+C:\Users\Daniel Cisneros\Desktop\Colecciones\libColecciones\bin\Debug\libColecciones.dll
+C:\Users\Daniel Cisneros\Desktop\Colecciones\libColecciones\bin\Debug\libColecciones.pdb
+C:\Users\Daniel Cisneros\Desktop\Colecciones\libColecciones\obj\Debug\libColecciones.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Cisneros\Desktop\Colecciones\libColecciones\obj\Debug\libColecciones.dll
+C:\Users\Daniel Cisneros\Desktop\Colecciones\libColecciones\obj\Debug\libColecciones.pdb
+U:\3)Mis proyectos de Programacion\visual studio\version 2.4\libColecciones\obj\Debug\libColecciones.csprojAssemblyReference.cache
+U:\3)Mis proyectos de Programacion\visual studio\version 2.4\libColecciones\obj\Debug\libColecciones.csproj.CoreCompileInputs.cache
+U:\3)Mis proyectos de Programacion\visual studio\version 2.4\libColecciones\obj\Debug\libColecciones.dll
+U:\3)Mis proyectos de Programacion\visual studio\version 2.4\libColecciones\obj\Debug\libColecciones.pdb
+U:\3)Mis proyectos de Programacion\visual studio\version 2.4\libColecciones\bin\Debug\libColecciones.dll
+U:\3)Mis proyectos de Programacion\visual studio\version 2.4\libColecciones\bin\Debug\libColecciones.pdb
+C:\Users\Daniel Cisneros\Desktop\ColeccionesV2.5\libColecciones\bin\Debug\libColecciones.dll
+C:\Users\Daniel Cisneros\Desktop\ColeccionesV2.5\libColecciones\bin\Debug\libColecciones.pdb
+C:\Users\Daniel Cisneros\Desktop\ColeccionesV2.5\libColecciones\obj\Debug\libColecciones.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Cisneros\Desktop\ColeccionesV2.5\libColecciones\obj\Debug\libColecciones.dll
+C:\Users\Daniel Cisneros\Desktop\ColeccionesV2.5\libColecciones\obj\Debug\libColecciones.pdb
+C:\Users\Kmilo Zarta\Downloads\codigo 3 corte urgente\libColecciones\bin\Debug\libColecciones.dll
+C:\Users\Kmilo Zarta\Downloads\codigo 3 corte urgente\libColecciones\bin\Debug\libColecciones.pdb
+C:\Users\Kmilo Zarta\Downloads\codigo 3 corte urgente\libColecciones\obj\Debug\libColecciones.csprojAssemblyReference.cache
+C:\Users\Kmilo Zarta\Downloads\codigo 3 corte urgente\libColecciones\obj\Debug\libColecciones.csproj.CoreCompileInputs.cache
+C:\Users\Kmilo Zarta\Downloads\codigo 3 corte urgente\libColecciones\obj\Debug\libColecciones.dll
+C:\Users\Kmilo Zarta\Downloads\codigo 3 corte urgente\libColecciones\obj\Debug\libColecciones.pdb

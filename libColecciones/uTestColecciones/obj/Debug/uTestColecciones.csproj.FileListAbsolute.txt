@@ -1,0 +1,64 @@
+c:\users\daniel cisneros\documents\visual studio 2015\Projects\Colecciones\uTestColecciones\bin\Debug\uTestColecciones.dll
+c:\users\daniel cisneros\documents\visual studio 2015\Projects\Colecciones\uTestColecciones\bin\Debug\uTestColecciones.pdb
+c:\users\daniel cisneros\documents\visual studio 2015\Projects\Colecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\daniel cisneros\documents\visual studio 2015\Projects\Colecciones\uTestColecciones\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\daniel cisneros\documents\visual studio 2015\Projects\Colecciones\uTestColecciones\obj\Debug\uTestColecciones.csprojResolveAssemblyReference.cache
+c:\users\daniel cisneros\documents\visual studio 2015\Projects\Colecciones\uTestColecciones\obj\Debug\uTestColecciones.dll
+c:\users\daniel cisneros\documents\visual studio 2015\Projects\Colecciones\uTestColecciones\obj\Debug\uTestColecciones.pdb
+c:\users\daniel cisneros\documents\visual studio 2015\Projects\Colecciones\uTestColecciones\bin\Debug\libColecciones.dll
+c:\users\daniel cisneros\documents\visual studio 2015\Projects\Colecciones\uTestColecciones\bin\Debug\libColecciones.pdb
+C:\Users\Personal\Documents\Visual Studio 2015\Colecciones\uTestColecciones\bin\Debug\uTestColecciones.dll
+C:\Users\Personal\Documents\Visual Studio 2015\Colecciones\uTestColecciones\bin\Debug\uTestColecciones.pdb
+C:\Users\Personal\Documents\Visual Studio 2015\Colecciones\uTestColecciones\bin\Debug\libColecciones.dll
+C:\Users\Personal\Documents\Visual Studio 2015\Colecciones\uTestColecciones\bin\Debug\libColecciones.pdb
+C:\Users\Personal\Documents\Visual Studio 2015\Colecciones\uTestColecciones\obj\Debug\uTestColecciones.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Documents\Visual Studio 2015\Colecciones\uTestColecciones\obj\Debug\uTestColecciones.dll
+C:\Users\Personal\Documents\Visual Studio 2015\Colecciones\uTestColecciones\obj\Debug\uTestColecciones.pdb
+C:\Users\Daniel Cisneros\Documents\Visual Studio 2015\Colecciones\uTestColecciones\bin\Debug\uTestColecciones.dll
+C:\Users\Daniel Cisneros\Documents\Visual Studio 2015\Colecciones\uTestColecciones\bin\Debug\uTestColecciones.pdb
+C:\Users\Daniel Cisneros\Documents\Visual Studio 2015\Colecciones\uTestColecciones\bin\Debug\libColecciones.dll
+C:\Users\Daniel Cisneros\Documents\Visual Studio 2015\Colecciones\uTestColecciones\bin\Debug\libColecciones.pdb
+C:\Users\Daniel Cisneros\Documents\Visual Studio 2015\Colecciones\uTestColecciones\obj\Debug\uTestColecciones.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Cisneros\Documents\Visual Studio 2015\Colecciones\uTestColecciones\obj\Debug\uTestColecciones.dll
+C:\Users\Daniel Cisneros\Documents\Visual Studio 2015\Colecciones\uTestColecciones\obj\Debug\uTestColecciones.pdb
+U:\3)Mis proyectos de Programacion\visual studio\version 2.3.1\uTestColecciones\bin\Debug\uTestColecciones.dll
+U:\3)Mis proyectos de Programacion\visual studio\version 2.3.1\uTestColecciones\bin\Debug\uTestColecciones.pdb
+U:\3)Mis proyectos de Programacion\visual studio\version 2.3.1\uTestColecciones\bin\Debug\libColecciones.dll
+U:\3)Mis proyectos de Programacion\visual studio\version 2.3.1\uTestColecciones\bin\Debug\libColecciones.pdb
+U:\3)Mis proyectos de Programacion\visual studio\version 2.3.1\uTestColecciones\obj\Debug\uTestColecciones.csprojAssemblyReference.cache
+U:\3)Mis proyectos de Programacion\visual studio\version 2.3.1\uTestColecciones\obj\Debug\uTestColecciones.csproj.CoreCompileInputs.cache
+U:\3)Mis proyectos de Programacion\visual studio\version 2.3.1\uTestColecciones\obj\Debug\uTestColecciones.csproj.CopyComplete
+U:\3)Mis proyectos de Programacion\visual studio\version 2.3.1\uTestColecciones\obj\Debug\uTestColecciones.dll
+U:\3)Mis proyectos de Programacion\visual studio\version 2.3.1\uTestColecciones\obj\Debug\uTestColecciones.pdb
+C:\Users\Daniel Cisneros\Desktop\Colecciones\uTestColecciones\obj\Debug\uTestColecciones.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Cisneros\Desktop\Colecciones\uTestColecciones\obj\Debug\uTestColecciones.dll
+C:\Users\Daniel Cisneros\Desktop\Colecciones\uTestColecciones\obj\Debug\uTestColecciones.pdb
+C:\Users\Daniel Cisneros\Desktop\Colecciones\uTestColecciones\bin\Debug\uTestColecciones.dll
+C:\Users\Daniel Cisneros\Desktop\Colecciones\uTestColecciones\bin\Debug\uTestColecciones.pdb
+C:\Users\Daniel Cisneros\Desktop\Colecciones\uTestColecciones\bin\Debug\libColecciones.dll
+C:\Users\Daniel Cisneros\Desktop\Colecciones\uTestColecciones\bin\Debug\libColecciones.pdb
+U:\3)Mis proyectos de Programacion\visual studio\version 2.4\uTestColecciones\bin\Debug\uTestColecciones.dll
+U:\3)Mis proyectos de Programacion\visual studio\version 2.4\uTestColecciones\bin\Debug\uTestColecciones.pdb
+U:\3)Mis proyectos de Programacion\visual studio\version 2.4\uTestColecciones\bin\Debug\libColecciones.dll
+U:\3)Mis proyectos de Programacion\visual studio\version 2.4\uTestColecciones\bin\Debug\libColecciones.pdb
+U:\3)Mis proyectos de Programacion\visual studio\version 2.4\uTestColecciones\obj\Debug\uTestColecciones.csprojAssemblyReference.cache
+U:\3)Mis proyectos de Programacion\visual studio\version 2.4\uTestColecciones\obj\Debug\uTestColecciones.csproj.CoreCompileInputs.cache
+U:\3)Mis proyectos de Programacion\visual studio\version 2.4\uTestColecciones\obj\Debug\uTestColecciones.csproj.CopyComplete
+U:\3)Mis proyectos de Programacion\visual studio\version 2.4\uTestColecciones\obj\Debug\uTestColecciones.dll
+U:\3)Mis proyectos de Programacion\visual studio\version 2.4\uTestColecciones\obj\Debug\uTestColecciones.pdb
+C:\Users\Daniel Cisneros\Desktop\ColeccionesV2.5\uTestColecciones\bin\Debug\uTestColecciones.dll
+C:\Users\Daniel Cisneros\Desktop\ColeccionesV2.5\uTestColecciones\bin\Debug\uTestColecciones.pdb
+C:\Users\Daniel Cisneros\Desktop\ColeccionesV2.5\uTestColecciones\bin\Debug\libColecciones.dll
+C:\Users\Daniel Cisneros\Desktop\ColeccionesV2.5\uTestColecciones\bin\Debug\libColecciones.pdb
+C:\Users\Daniel Cisneros\Desktop\ColeccionesV2.5\uTestColecciones\obj\Debug\uTestColecciones.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Cisneros\Desktop\ColeccionesV2.5\uTestColecciones\obj\Debug\uTestColecciones.dll
+C:\Users\Daniel Cisneros\Desktop\ColeccionesV2.5\uTestColecciones\obj\Debug\uTestColecciones.pdb
+C:\Users\Kmilo Zarta\Downloads\codigo 3 corte urgente\uTestColecciones\bin\Debug\uTestColecciones.dll
+C:\Users\Kmilo Zarta\Downloads\codigo 3 corte urgente\uTestColecciones\bin\Debug\uTestColecciones.pdb
+C:\Users\Kmilo Zarta\Downloads\codigo 3 corte urgente\uTestColecciones\bin\Debug\libColecciones.dll
+C:\Users\Kmilo Zarta\Downloads\codigo 3 corte urgente\uTestColecciones\bin\Debug\libColecciones.pdb
+C:\Users\Kmilo Zarta\Downloads\codigo 3 corte urgente\uTestColecciones\obj\Debug\uTestColecciones.csprojAssemblyReference.cache
+C:\Users\Kmilo Zarta\Downloads\codigo 3 corte urgente\uTestColecciones\obj\Debug\uTestColecciones.csproj.CoreCompileInputs.cache
+C:\Users\Kmilo Zarta\Downloads\codigo 3 corte urgente\uTestColecciones\obj\Debug\uTestColecciones.csproj.CopyComplete
+C:\Users\Kmilo Zarta\Downloads\codigo 3 corte urgente\uTestColecciones\obj\Debug\uTestColecciones.dll
+C:\Users\Kmilo Zarta\Downloads\codigo 3 corte urgente\uTestColecciones\obj\Debug\uTestColecciones.pdb
